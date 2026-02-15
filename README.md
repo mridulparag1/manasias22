@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 2.5em; font-weight: bold;">
   <span>👋 Hello, I'm Mrudul Parag Chaudhari!</span> 
-  <span style="font-size: 1.2em;">😄</span>
+  <span style="font-size: 1.2em;"> </span>
 </h1>
 
 <p align="center"> <a href="https://github.com/mridulparag1"> <img src="https://komarev.com/ghpvc/?username=mridulparag1&label=Profile%20views&color=0e75b6&style=flat" alt="mridulparag1"/> </a> &nbsp &nbsp <a href="https://github.com/mridulparag1?tab=followers"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mridulparag1?color=green&logo=github&label=Followers"> </a> &nbsp &nbsp </p>
@@ -93,7 +93,7 @@
 
 <hr/>
 
-<h3><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width = 32px> &nbsp;  Certifications and Badges </h3></summary>
+<h3 align="center"><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width = 32px> &nbsp;  Certifications and Badges </h3></summary>
 
 <table align="center">
  <tr align="center">
@@ -116,8 +116,7 @@
 </table>
 <hr/>
 
-
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3> ✍️ Random Dev Quote </h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming"/>
