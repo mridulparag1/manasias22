@@ -19,11 +19,13 @@
 
  <h4>🧠 Passionate about problem-solving, deep learning, and developing smart systems that can solve real-world challenges.</h4>
 
-  <h4>📧 Contact me at: <a href ="mailto:mrudulchaudhari2203@gmail.com">mrudulchaudhari2203@gmail.com</a></h4>
-
+ <h4 align="center">📧 Feel free to reach out me via: </h4>
+ 
 </div>
 <div align="center">
-
+  <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
   <a href="https://www.linkedin.com/in/mridulparag1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -32,9 +34,13 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange" target="_blank" />
   </a>
 
-  <a href="[https://mridulparag1.github.io/](https://github.com/mridulparag1)" target="_blank">
+  <a href="https://github.com/mridulparag1" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  
+  <a href="https://github.com/mridulparag1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+
 </div>
 
 <hr/>
