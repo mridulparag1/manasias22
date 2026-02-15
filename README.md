@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 2.5em; font-weight: bold;">
-  <span>👋 Hello, I'm Mridul Parag!</span> 
+  <span>👋 Hello, I'm Mrudul Parag Chaudhari!</span> 
   <span style="font-size: 1.2em;">😄</span>
 </h1>
 <h3 align="center" style="font-size: 1.5em;">
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- <h4>⚡ Currently pursuing a Bachelor's degree in Computer Engineering and continuously exploring the world of Artificial Intelligence and Machine Learning.</h4>
+ <h4>⚡ A Graduate in Bachelor's of Engineering in Computer Engineering with Honors degree in Artificial Intelligence and Machine Learning.</h4>
 
  <h4>🌐 Engaged in projects involving AI, Machine Learning, Data Science, and Cloud technologies, aiming to build intelligent and impactful solutions.</h4>
 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange" target="_blank" />
   </a>
 
-  <a href="https://mridulparag1.github.io/" target="_blank">
+  <a href="[https://mridulparag1.github.io/](https://github.com/mridulparag1)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -56,7 +56,7 @@
   <br/>
 </h2>
 <p align="center" style="font-size: 1.1em; max-width: 800px; margin: auto;">
-  Greetings, I am Mridul Parag, where ambition, curiosity, and a deep passion for Artificial Intelligence define my journey as a dedicated learner and developer. I am committed to continuous growth and driven by the desire to create intelligent systems that make a meaningful impact. My interests lie in Machine Learning, Deep Learning, and Data Science, where I enjoy building models, analyzing data, and solving complex problems. Always eager to learn, I actively explore emerging technologies and strive to push the boundaries of innovation in AI. 📈
+  Greetings, I am Mrudul Parag Chaudhari, where ambition, curiosity, and a deep passion for Artificial Intelligence define my journey as a dedicated learner and developer. I am committed to continuous growth and driven by the desire to create intelligent systems that make a meaningful impact. My interests lie in Machine Learning, Deep Learning, and Data Science, where I enjoy building models, analyzing data, and solving complex problems. Always eager to learn, I actively explore emerging technologies and strive to push the boundaries of innovation in AI. 📈
 </p>
 
 <hr/>
