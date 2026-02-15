@@ -64,7 +64,7 @@
 
 <hr/>
 
-<h3 align="center" >GitHub Statistics:</h3>
+<h3 align="center" >GitHub Statistics</h3>
 
   <div style="flex: 1; padding: 10px;">
     <p align="center">
