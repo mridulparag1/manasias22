@@ -64,13 +64,8 @@
 
 <hr/>
 
-<h3 align="center" >Stat:</h3>
-<div style="display: flex-row;">
-  <div style="flex: 1; padding: 10px;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mridulparag1&show_icons=true&theme=radical&locale=en" alt="mridulparag1" />
-    </p>
-  </div>
+<h3 align="center" >GitHub Statistics:</h3>
+
   <div style="flex: 1; padding: 10px;">
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridulparag1&theme=highcontrast" alt="mridulparag1" />
@@ -78,8 +73,8 @@
   </div>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
+<hr/>
+<h3 align="center">Overall Statistics</h3>
 
 <div align="center">
 <a href="https://github.com/mridulparag1">
