@@ -3,9 +3,11 @@
   <span style="font-size: 1.2em;"> </span>
 </h1>
 
-<p align="center"> <a href="https://github.com/mridulparag1"> <img src="https://komarev.com/ghpvc/?username=mridulparag1&label=Profile%20views&color=0e75b6&style=flat" alt="mridulparag1"/> </a> &nbsp &nbsp <a href="https://github.com/mridulparag1?tab=followers"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mridulparag1?color=green&logo=github&label=Followers"> </a> &nbsp &nbsp </p>
-<h3 align="center" style="font-size: 1.5em;">
-  
+<p align="center"> <a href="https://github.com/mridulparag1"> <img src="https://komarev.com/ghpvc/?username=mridulparag1&label=Profile%20views&color=0e75b6&style=flat" alt="mridulparag1"/> </a> 
+&nbsp &nbsp <a href="https://github.com/mridulparag1?tab=followers"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mridulparag1?color=green&logo=github&label=Followers"> </a> 
+&nbsp &nbsp </p>
+
+<h3 align="center" style="font-size: 1.5em;"> 
   🤖 A passionate AI & Machine Learning Enthusiast 🚀
 </h3>
 
