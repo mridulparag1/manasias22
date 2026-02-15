@@ -19,7 +19,7 @@
 
  <h4>🧠 Passionate about problem-solving, deep learning, and developing smart systems that can solve real-world challenges.</h4>
 
- <h4 align="center">📧 Feel free to reach out me via: </h4>
+ <h4 align="center">📧 Feel free to reach out to me via: </h4>
  
 </div>
 <div align="center">
