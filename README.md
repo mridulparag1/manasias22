@@ -15,7 +15,7 @@
 
 <div align="center">
  
- <h4>⚡ A Graduate in Bachelor's of Engineering in Computer Engineering with Honors degree in Artificial Intelligence and Machine Learning.</h4>
+ <h4>🎓 Bachelor of Engineering in Computer Engineering with Honors in Artificial Intelligence & Machine Learning.</h4>
 
  <h4>🌐 Engaged in projects involving AI, Machine Learning, Data Science, and Cloud technologies, aiming to build intelligent and impactful solutions.</h4>
 
